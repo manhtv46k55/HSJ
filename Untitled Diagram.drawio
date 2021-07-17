@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T09:11:28.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="EkqhSZOv6EScgKRpiETQ" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T09:12:00.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="3xfixirlccV4KGK2ERNR" version="14.9.0" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="2966" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NUjjfqa_huzqdR6QL24O-2" value="HIỆN TẠI&#xa;CHẠY LOCAL&#xa;&#xa;&#xa;" style="swimlane;startSize=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="80" y="82" width="820" height="660" as="geometry" />
+          <mxGeometry x="80" y="82" width="880" height="660" as="geometry" />
         </mxCell>
         <mxCell id="NUjjfqa_huzqdR6QL24O-6" value="CƠ SỞ QUẬN 7" style="swimlane;" vertex="1" parent="NUjjfqa_huzqdR6QL24O-2">
           <mxGeometry x="20" y="220" width="340" height="400" as="geometry" />
